@@ -1,0 +1,41 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Entity state - operator-specific
+state/seen.json
+state/posted.json
+state/feed.json
+state/spending.json
+state/rate_limits.json
+state/health.json
+state/treasury_report.json
+state/self_payment.json
+state/grants.json
+state/donation_last_check.txt
+state/canary_outputs.json
+state/memory.db
+state/backups/
+
+# Logs
+logs/*.log
+logs/*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*

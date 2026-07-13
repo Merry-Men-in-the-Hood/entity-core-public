@@ -1,0 +1,44 @@
+# Entity v0 - Python dependencies
+# Install: pip install -r requirements.txt --break-system-packages
+
+# HTTP & async
+requests==2.32.3
+aiohttp==3.10.10
+httpx==0.27.2
+
+# Environment
+python-dotenv==1.0.1
+
+# X (Twitter) API
+tweepy==4.14.0
+
+# Telegram
+python-telegram-bot==21.6
+
+# Hashing / integrity
+# (hashlib stdlib)
+
+# JSON handling (faster)
+orjson==3.10.7
+
+# Date/time
+python-dateutil==2.9.0
+
+# Web3 / on-chain
+web3==7.4.0
+eth-account==0.13.4
+
+# Crypto signing for x402
+eth-utils==5.0.0
+
+# Logging & monitoring
+structlog==24.4.0
+
+# CLI
+click==8.1.7
+rich==13.9.4
+
+# Optional: HTTP API endpoint server (post-stabilization, ~2+ months
+# from launch, or sooner as Entity capability and external demand warrant)
+# fastapi==0.115.4
+# uvicorn==0.32.0
