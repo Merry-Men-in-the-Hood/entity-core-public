@@ -38,7 +38,7 @@ any single one.
 2. **Donations** (Day 1). Community donations on Ethereum and Base.
    Robinhood support is pending Safe protocol availability on that
    network. Multisig 2-of-3 Safe at
-   `0x9dAadCf2A39059ff11Fbb6fbAF1Ae4F39634eD3D`. No solicitation.
+   `0x33EeB0A8d06bED91B4abf96DED14B96Ee093d66d`. No solicitation.
    Every inbound transaction visible on chain.
 3. **Grants** (Day 1+). Public-goods grants from ecosystems aligned
    with defensive infrastructure. Initial supporters secured. Names

@@ -146,7 +146,7 @@ autonomously. Multiple paths sustain operations:
    Multiple revenue paths extend further when activated.
 2. **Donations** (Day 1). Community donations on Ethereum and Base.
    Multisig 2-of-3 Safe at
-   `0x9dAadCf2A39059ff11Fbb6fbAF1Ae4F39634eD3D`. Robinhood support is
+   `0x33EeB0A8d06bED91B4abf96DED14B96Ee093d66d`. Robinhood support is
    pending Safe protocol availability on that network. No solicitation.
 3. **Grants** (Day 1+). Public-goods grants. Initial supporters secured.
    Names withheld per grantor confidentiality.
