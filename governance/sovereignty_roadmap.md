@@ -35,9 +35,8 @@ any single one.
    runway at current burn. Entity operates without external funding
    for two years. No equity. No vesting. Other revenue paths extend
    further when activated.
-2. **Donations** (Day 1). Community donations on Ethereum and Base.
-   Robinhood support is pending Safe protocol availability on that
-   network. Multisig 2-of-3 Safe at
+2. **Donations** (Day 1). Community donations on Ethereum, Base, and Robinhood.
+   A standard EVM address, valid on every EVM chain:
    `0x33EeB0A8d06bED91B4abf96DED14B96Ee093d66d`. No solicitation.
    Every inbound transaction visible on chain.
 3. **Grants** (Day 1+). Public-goods grants from ecosystems aligned
